@@ -1,0 +1,32 @@
+/* Created by: Stella S
+* Created on: May 2022
+* This CSS file defines the style for index.html
+* Unit4-04-HTML-Museum
+*/
+
+body {
+	background-color: PapayaWhip
+}
+
+h1 {
+  background-color: rgb(222, 184, 135);
+}
+
+table {
+  background-color: rgb(222, 184, 135); 
+}
+
+label {
+  background-color: rgb(255, 228, 196)
+}
+
+h3 {
+  background-color: rgb(255, 228, 196)
+}
+
+#display-results{
+  background-color: #e8cea1;
+	font-size: 20px;
+  color: #000000;
+  font-weight: bold;
+}
