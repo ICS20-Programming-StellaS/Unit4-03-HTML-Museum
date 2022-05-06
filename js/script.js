@@ -30,6 +30,6 @@ function displayCost() {
 		cost = "No discount for you. You have to pay regular price."
 	}
 	
-  	// display the greeting
+  	// display the results
   	document.getElementById('display-results').innerHTML = cost
 }
